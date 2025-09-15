@@ -5,7 +5,7 @@ accountCity = "Faridabad"
  let accountState
 // accountId = 23232
 
-accountEmail = "yash@gmail.com"
+accountEmail = "yash@gmail.com" 
 accountPassword = "yash123"
 accountCity = "Rohtak"
 // console.log(accountId)
