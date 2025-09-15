@@ -13,5 +13,5 @@ accountCity = "Rohtak"
 // console.log(accountEmail);
 
 console.table([accountId, accountEmail,accountPassword,accountCity,accountState])
-console.log("Yashu")
+console.log("Yashu") ;
  
