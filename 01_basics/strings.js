@@ -15,5 +15,5 @@ console.log("if we want to know the character at specific index : ",new_name.cha
 
 console.log("If we want to print substring of the string : ",new_name.substring(0,4))
 
-const hero = "    Yashi     "
+const hero = "    Yashi     "   ;
 console.log("if we want to remove extra spaces from the string we use trim() :",hero.trim())

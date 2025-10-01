@@ -8,7 +8,7 @@ console.log("Printing name before change : ", name);
 
 org_name = "yashdeep"
 
-console.log("Printing name ater change : ", name,"\n");
+console.log("Printing name after change : ", name,"\n");
 console.log("These both are same because it makes copy of these not changing the value in original copy ")
 
 console.log("printing org name after modification : ",org_name,"\n")
